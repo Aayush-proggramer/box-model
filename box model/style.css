@@ -1,0 +1,15 @@
+img {
+    border : 3px dotted black;
+    padding : 9px;
+    margin: 9px;
+}
+#i1{
+    float: right;
+}
+#i2{
+    float: left;
+}
+#p1{
+    margin-left: 500px;
+    margin-top: 4px;
+}
